@@ -2,8 +2,8 @@ Hi,Im Jayaprasad
 
 Im a Student of coding ninjas and i have developed tooltip project.
 
-deployed link of this project is <>
-gitHub Link:
+deployed link of this project is :<https://react-tooltip-jp.vercel.app/>
+gitHub Link:<https://github.com/Jayaprasad78/React-Tooltip.git>
 
 in this i have added one button whenerver user points the mouse cursor on that component it has to show the hover like thank for hovering,im a tooltip.
 
